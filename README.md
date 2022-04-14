@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @skarandashova
-- 👀 I’m interested in QA
+- 👀 I'm a QA
 - 📫 How to reach me skarandashova@gmail.com
 
 <!---
